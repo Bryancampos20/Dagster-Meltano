@@ -43,15 +43,19 @@ dagster dev
 
 - This is the dashboard with the meltano job
 
+![Screenshot (160)](https://github.com/Bryancampos20/Dagster-Meltano/blob/main/results/1.png)
 
 - The only way to execute the job is by clicking it
 
+![Screenshot (160)](https://github.com/Bryancampos20/Dagster-Meltano/blob/main/results/2.png)
 
 - When we click on "Launch Run" we can execute the job
 
+![Screenshot (160)](https://github.com/Bryancampos20/Dagster-Meltano/blob/main/results/3.png)
 
 - This is the result
 
+![Screenshot (160)](https://github.com/Bryancampos20/Dagster-Meltano/blob/main/results/4.png)
 
 This is a basic example of how we can run a Meltano command in Dagster.
 
